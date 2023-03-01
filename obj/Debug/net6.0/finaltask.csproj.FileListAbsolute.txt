@@ -1,0 +1,15 @@
+C:\task10\finaltask\bin\Debug\net6.0\finaltask.exe
+C:\task10\finaltask\bin\Debug\net6.0\finaltask.deps.json
+C:\task10\finaltask\bin\Debug\net6.0\finaltask.runtimeconfig.json
+C:\task10\finaltask\bin\Debug\net6.0\finaltask.dll
+C:\task10\finaltask\bin\Debug\net6.0\finaltask.pdb
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.csproj.AssemblyReference.cache
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.AssemblyInfoInputs.cache
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.AssemblyInfo.cs
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.csproj.CoreCompileInputs.cache
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.dll
+C:\task10\finaltask\obj\Debug\net6.0\refint\finaltask.dll
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.pdb
+C:\task10\finaltask\obj\Debug\net6.0\finaltask.genruntimeconfig.cache
+C:\task10\finaltask\obj\Debug\net6.0\ref\finaltask.dll
